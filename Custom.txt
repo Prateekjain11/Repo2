@@ -1,0 +1,11 @@
+ Volume in drive D has no label.
+ Volume Serial Number is D8DC-6E21
+
+ Directory of D:\Git\Prateek
+
+18-11-2022  14:05    <DIR>          .
+18-11-2022  14:05    <DIR>          ..
+18-11-2022  14:05                 0 Custom.txt
+02-05-2022  17:26               448 Custom.txt.txt
+               2 File(s)            448 bytes
+               2 Dir(s)  209,164,595,200 bytes free
